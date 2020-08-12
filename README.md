@@ -23,10 +23,10 @@
   
   - <img width="35" src="https://img.icons8.com/cotton/2x/laptop-coding.png">&nbsp;&nbsp;&nbsp; Interested in Web Development, Cloud Technologies and Project Management.
 
-  - <a href="https://github.com/OmarReda/Discovery"><img width="45" src="https://github.com/OmarReda/OmarReda/blob/master/discovery.gif"></a> &nbsp;Click on the Rocket.
+  - <a href="https://github.com/OmarReda/Discovery"><img width="45" src="https://github.com/OmarReda/OmarReda/blob/master/discovery.gif"></a> &nbsp;<strong>Click on the Rocket.</strong>
  
 <hr>
-<p align="center">“Try to learn something about everything and everything about something.” – Thomas H. Huxley</p>
+<p align="center"><strong>“Try to learn something about everything and everything about something.” – Thomas H. Huxley</strong></p>
 <hr>
 
 <!--
