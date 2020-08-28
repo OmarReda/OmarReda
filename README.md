@@ -3,15 +3,17 @@
 <img src="https://github.com/OmarReda/OmarReda/blob/master/Heading3.gif">
 </p>
 
-<h2>Hola 🤙 ! I'm Omar Reda 👾</h2> 
-<h3>Find me on 🔎</h3>
+<h1 align="center">Hola 👋, I'm Omar Reda</h1>
+
+<h2>🔎 Find me on</h2>
 <p align="center"> 
-  <a href="https://omarreda.github.io"><img width="48" src="https://images-na.ssl-images-amazon.com/images/I/51gzZ7xxQDL.png"></a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/omarreda291/"><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/600px-Linkedin.svg.png"></a> &nbsp;&nbsp;
-  <a href="https://www.facebook.com/omar.reda.291/"><img width="50" src="https://cdn.bibelo.com.br/media/wysiwyg/icones/face.png"></a> &nbsp;&nbsp;
-  <a href="https://www.behance.net/omarreda1"><img width="50" src="https://www.pngrepo.com/png/299434/180/behance.png"></a> &nbsp;&nbsp;
-  <a href="https://github.com/OmarReda/"><img width="62" src="https://img.icons8.com/clouds/2x/github.png"></a> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/omarreda291" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="omarreda291" height="33" width="33" /></a> &nbsp;&nbsp;
+<a href="https://fb.com/omar.reda.291" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="omar.reda.291" height="35" width="35" /></a> &nbsp;&nbsp;
+<a href="https://instagram.com/omar.reda291/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="omar.reda291/" height="35" width="35" /></a> &nbsp;&nbsp;
+<a href="https://www.behance.net/omarreda1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="omarreda1" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://github.com/OmarReda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="OmarReda" height="35" width="35" /></a>
 </p>
+  
 
 <h2><img width="40" src="https://github.com/OmarReda/OmarReda/blob/master/source.gif"> About me</h2> 
 
