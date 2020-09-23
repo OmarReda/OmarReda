@@ -21,7 +21,7 @@
     
   - <img width="40" height="20" src="https://www.hecbusinessgame.com/media/IBM-Logo-PNG-Transparent-1024x446.png">&nbsp;&nbsp; Former **IBM Intern & IBM Skills Academy AI Analyst Certified Instructor.**
   
-  - <img width="40" src="https://www.internshipwala.com/img/comp.png">&nbsp; +1 Years **Total Experience in Software Engineering.**
+  - <img width="40" src="https://www.internshipwala.com/img/comp.png">&nbsp; 1 Year **Total Experience in Software Engineering.**
   
   - <img width="35" src="https://img.icons8.com/cotton/2x/laptop-coding.png">&nbsp;&nbsp;&nbsp; Interested in **Web Development, Cloud Technologies and Project Management.**
 
