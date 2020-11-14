@@ -40,7 +40,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarreda" alt="omarreda" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarreda&show_icons=true&locale=en&layout=compact" alt="omarreda" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=omarreda&show_icons=true" alt="omarreda" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarreda&show_icons=true&locale=en&layout=compact" width="375" alt="omarreda" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=omarreda&show_icons=true" width="450" alt="omarreda" /></p>
 
  
 <hr>
