@@ -38,9 +38,9 @@
 
 <h2> <img width="30" src="https://github.com/OmarReda/OmarReda/blob/master/trophy.png">&nbsp; Github Trophies</h2>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarreda" alt="omarreda" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarreda&theme=radical" alt="omarreda" /></a> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarreda&show_icons=true&locale=en&layout=compact" width="375" alt="omarreda" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=omarreda&show_icons=true" width="450" alt="omarreda" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarreda&show_icons=true&theme=radical&locale=en&layout=compact" width="375" alt="omarreda" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=omarreda&show_icons=true&theme=radical" width="450" alt="omarreda" /></p>
 
  
 <hr>
