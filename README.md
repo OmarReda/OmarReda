@@ -2,8 +2,14 @@
 <p align="center">
 <img src="https://github.com/OmarReda/OmarReda/blob/master/Heading3.gif">
 </p>
-
+  
 <h1 align="center">Hola 👋, I'm Omar Reda</h1>
+<div align="center"> 
+
+[![Repos Badge](https://badges.pufler.dev/repos/OmarReda)](https://badges.pufler.dev)
+<img src="https://komarev.com/ghpvc/?username=OmarReda&label=Profile%20views&color=0e75b6&style=flat" alt="OmarReda" />
+
+</div>
 
 <h2>Find me on<img width="80" src="https://github.com/OmarReda/OmarReda/blob/master/find.gif"> </h2>
 <p align="center"> 
