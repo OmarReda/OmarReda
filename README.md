@@ -6,6 +6,7 @@
 <h1 align="center">Hola 👋, I'm Omar Reda</h1>
 <div align="center"> 
 
+![GitHub followers](https://img.shields.io/github/followers/OmarReda?label=Followers)
 [![Repos Badge](https://badges.pufler.dev/repos/OmarReda)](https://badges.pufler.dev)
 <img src="https://komarev.com/ghpvc/?username=OmarReda&label=Profile%20views&color=0e75b6&style=flat" alt="OmarReda" />
 
