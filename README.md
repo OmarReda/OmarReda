@@ -25,15 +25,17 @@
   
 <h2><img width="40" src="https://github.com/OmarReda/OmarReda/blob/master/source.gif"> About me</h2> 
 
-  - <img width="40" src="https://i.dlpng.com/static/png/5516567-transparent-graduation-cap-transparent-graduation-cap-clipart-graduation-cap-transparent-920_569_preview.png">&nbsp;&nbsp; **Undergraduate Software Engineer, Studies Computer & Communication Engineering at Alexandria University.**
-    
-  - <img width="40" height="20" src="https://www.hecbusinessgame.com/media/IBM-Logo-PNG-Transparent-1024x446.png">&nbsp;&nbsp; Former **IBM Intern & IBM Skills Academy AI Analyst Certified Instructor.**
-  
-  - <img width="40" src="https://www.internshipwala.com/img/comp.png">&nbsp; 1 Year **Total Experience in Software Engineering.**
-  
-  - <img width="35" src="https://img.icons8.com/cotton/2x/laptop-coding.png">&nbsp;&nbsp;&nbsp; Interested in **Web Development, Cloud Technologies and Project Management.**
+  - &nbsp;&nbsp;<img width="40" src="https://i.dlpng.com/static/png/5516567-transparent-graduation-cap-transparent-graduation-cap-clipart-graduation-cap-transparent-920_569_preview.png">&nbsp;&nbsp; **Undergraduate Software Engineer, Studies Computer & Communication Engineering at Alexandria University.**
 
-  - <a href="https://github.com/OmarReda/Discovery"><img width="45" src="https://github.com/OmarReda/OmarReda/blob/master/discovery.gif"></a> &nbsp;<strong>Click on the Rocket.</strong>
+  - <img width="55" src="https://github.com/OmarReda/OmarReda/blob/master/gomycode.jpg">&nbsp; Currently **Web Development Instructor at GOMYCODE**
+
+  - &nbsp;&nbsp;<img width="40" src="https://www.hecbusinessgame.com/media/IBM-Logo-PNG-Transparent-1024x446.png">&nbsp;&nbsp; Former **IBM Intern & IBM Skills Academy AI Analyst Certified Instructor.**
+
+  - &nbsp;&nbsp;<img width="40" src="https://www.internshipwala.com/img/comp.png">&nbsp; 1 Year **Total Experience in Software Engineering.**
+  
+  - &nbsp;&nbsp;<img width="35" height="30" src="https://img.icons8.com/cotton/2x/laptop-coding.png">&nbsp;&nbsp;&nbsp; Interested in **Web Development, Cloud Technologies and Project Management.**
+
+  - &nbsp;<a href="https://github.com/OmarReda/Discovery"><img width="45" src="https://github.com/OmarReda/OmarReda/blob/master/discovery.gif"></a> &nbsp;<strong>Click on the Rocket.</strong>
   
 
 <h2> <img width="50" src="https://github.com/OmarReda/OmarReda/blob/master/skills2.gif"> Skills</h2> &nbsp; 
