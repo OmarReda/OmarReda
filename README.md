@@ -29,7 +29,7 @@
 
   - <img width="55" src="https://github.com/OmarReda/OmarReda/blob/master/gomycode.jpg">&nbsp; Currently **Web Development Instructor at GOMYCODE**
 
-  - &nbsp;&nbsp;<img width="40" src="https://www.hecbusinessgame.com/media/IBM-Logo-PNG-Transparent-1024x446.png">&nbsp;&nbsp; Former **IBM Intern & IBM Skills Academy AI Analyst Certified Instructor.**
+  - &nbsp;&nbsp;<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1000px-IBM_logo.svg.png">&nbsp;&nbsp; Former **IBM Intern & IBM Skills Academy AI Analyst Certified Instructor.**
 
   - &nbsp;&nbsp;<img width="40" src="https://www.internshipwala.com/img/comp.png">&nbsp; 1 Year **Total Experience in Software Engineering.**
   
