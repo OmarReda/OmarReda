@@ -25,9 +25,9 @@
   
 <h2><img width="40" src="https://github.com/OmarReda/OmarReda/blob/master/source.gif"> About me</h2> 
 
-  - &nbsp;&nbsp;<img width="40" src="https://i.dlpng.com/static/png/5516567-transparent-graduation-cap-transparent-graduation-cap-clipart-graduation-cap-transparent-920_569_preview.png">&nbsp;&nbsp; **Undergraduate Software Engineer, Studies Computer & Communication Engineering at Alexandria University.**
+  - &nbsp;&nbsp;<img width="40" src="https://i.dlpng.com/static/png/5516567-transparent-graduation-cap-transparent-graduation-cap-clipart-graduation-cap-transparent-920_569_preview.png">&nbsp;&nbsp; **Fresh Graduate Software Engineer, Studied Computer & Communication Engineering at Alexandria University.**
 
-  - <img width="55" src="https://github.com/OmarReda/OmarReda/blob/master/gomycode.jpg">&nbsp; Currently **Web Development Instructor at GOMYCODE**
+  - <img width="55" src="https://github.com/OmarReda/OmarReda/blob/master/gomycode.jpg">&nbsp; Former **Web Development Instructor at GOMYCODE**
 
   - &nbsp;&nbsp;<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1000px-IBM_logo.svg.png">&nbsp;&nbsp; Former **IBM Intern & IBM Skills Academy AI Analyst Certified Instructor.**
 
