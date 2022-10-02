@@ -7,7 +7,6 @@
 <div align="center"> 
 
 ![GitHub followers](https://img.shields.io/github/followers/OmarReda?label=Followers)
-[![Repos Badge](https://badges.pufler.dev/repos/OmarReda)](https://badges.pufler.dev)
 <img src="https://komarev.com/ghpvc/?username=OmarReda&label=Profile%20views&color=0e75b6&style=flat" alt="OmarReda" />
 
 </div>
@@ -18,22 +17,21 @@
 <a href="https://linkedin.com/in/omarreda291" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="omarreda291" height="33" width="33" /></a> &nbsp;&nbsp;
 <a href="https://fb.com/omar.reda.291" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="omar.reda.291" height="35" width="35" /></a> &nbsp;&nbsp;
 <a href="https://instagram.com/omar.reda291/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="omar.reda291/" height="35" width="35" /></a> &nbsp;&nbsp;
-<a href="https://www.behance.net/omarreda1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="omarreda1" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://github.com/OmarReda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="OmarReda" height="35" width="35" /></a>&nbsp;&nbsp;
-<a href="https://dev.to//omarreda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="/omarreda" height="45" width="40" /></a>
+<a href="https://omarreda.hashnode.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="/omarreda" height="45" width="40" /></a>
 </p>
   
 <h2><img width="40" src="https://github.com/OmarReda/OmarReda/blob/master/source.gif"> About me</h2> 
 
-  - &nbsp;&nbsp;<img width="40" src="https://i.dlpng.com/static/png/5516567-transparent-graduation-cap-transparent-graduation-cap-clipart-graduation-cap-transparent-920_569_preview.png">&nbsp;&nbsp; **Fresh Graduate Software Engineer, Studied Computer & Communication Engineering at Alexandria University.**
-
-  - <img width="55" src="https://github.com/OmarReda/OmarReda/blob/master/gomycode.jpg">&nbsp; Former **Web Development Instructor at GOMYCODE**
-
-  - &nbsp;&nbsp;<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1000px-IBM_logo.svg.png">&nbsp;&nbsp; Former **IBM Intern & IBM Skills Academy AI Analyst Certified Instructor.**
-
-  - &nbsp;&nbsp;<img width="40" src="https://www.internshipwala.com/img/comp.png">&nbsp; 1 Year **Total Experience in Software Engineering.**
+  - **Fresh Graduate Software Engineer, Studied Computer & Communication Engineering at Alexandria University**.
   
-  - &nbsp;&nbsp;<img width="35" height="30" src="https://img.icons8.com/cotton/2x/laptop-coding.png">&nbsp;&nbsp;&nbsp; Interested in **Web Development, Cloud Technologies and Project Management.**
+  - Currently, I work as a Cloud Engineer at **GIG Technology**.
+  
+  - Former **IBM Intern & IBM Skills Academy AI Analyst Certified Instructor**.
+
+  - +2 Years **Total Experience in Software Engineering**.
+  
+  - Interested in **Web Development, Cloud Technologies and Project Management**.
 
   - &nbsp;<a href="https://github.com/OmarReda/Discovery"><img width="45" src="https://github.com/OmarReda/OmarReda/blob/master/discovery.gif"></a> &nbsp;<strong>Click on the Rocket.</strong>
   
