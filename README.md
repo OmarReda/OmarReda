@@ -27,7 +27,7 @@
   
   - Currently, I work as a Site Reliability Engineer II @ **Careem**.
   
-  - Former **IBM Intern & IBM Skills Academy AI Analyst Certified Instructor**.
+  - IBM Skills Academy AI Analyst Certified Instructor 2019.
 
   - +2 Years **Total Experience in Software Engineering**.
   
