@@ -23,18 +23,15 @@
   
 <h2><img width="40" src="https://github.com/OmarReda/OmarReda/blob/master/source.gif"> About me</h2> 
 
-  - **Fresh Graduate Software Engineer, Studied Computer & Communication Engineering at Alexandria University**.
+  - **Software Engineer, Studied Computer & Communication Engineering at Alexandria University**.
   
-  - Currently, I work as a Cloud Engineer at **GIG Technology**.
+  - Currently, I work as a Site Reliability Engineer II @ **Careem**.
   
   - Former **IBM Intern & IBM Skills Academy AI Analyst Certified Instructor**.
 
   - +2 Years **Total Experience in Software Engineering**.
   
-  - Interested in **Web Development, Cloud Technologies and Project Management**.
-
-  - &nbsp;<a href="https://github.com/OmarReda/Discovery"><img width="45" src="https://github.com/OmarReda/OmarReda/blob/master/discovery.gif"></a> &nbsp;<strong>Click on the Rocket.</strong>
-  
+  - Interested in **Cloud Technologies, Web Development and Project Management**.  
 
 <h2> <img width="50" src="https://github.com/OmarReda/OmarReda/blob/master/skills2.gif"> Skills</h2> &nbsp; 
 
