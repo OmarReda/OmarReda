@@ -1,8 +1,3 @@
-
-<p align="center">
-<img src="https://github.com/OmarReda/OmarReda/blob/master/Heading3.gif">
-</p>
-  
 <h1 align="center">Hola 👋, I'm Omar Reda</h1>
 <div align="center"> 
 
@@ -17,7 +12,6 @@
 <a href="https://linkedin.com/in/omarreda291" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="omarreda291" height="33" width="33" /></a> &nbsp;&nbsp;
 <a href="https://fb.com/omar.reda.291" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="omar.reda.291" height="35" width="35" /></a> &nbsp;&nbsp;
 <a href="https://instagram.com/omar.reda291/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="omar.reda291/" height="35" width="35" /></a> &nbsp;&nbsp;
-<a href="https://github.com/OmarReda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="OmarReda" height="35" width="35" /></a>&nbsp;&nbsp;
 <a href="https://omarreda.hashnode.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="/omarreda" height="45" width="40" /></a>
 </p>
   
@@ -29,9 +23,9 @@
   
   - IBM Skills Academy AI Analyst Certified Instructor 2019.
 
-  - +2 Years **Total Experience in Software Engineering**.
+  - +3 Years **Total Experience in Software Engineering**.
   
-  - Interested in **Cloud Technologies, Web Development and Project Management**.  
+  - Interested in **Cloud Technologies, Web Development and Project/Product Management**.  
 
 <h2> <img width="50" src="https://github.com/OmarReda/OmarReda/blob/master/skills2.gif"> Skills</h2> &nbsp; 
 
@@ -40,12 +34,6 @@
 </p>
 
 <br/>
-
-<h2> <img width="30" src="https://github.com/OmarReda/OmarReda/blob/master/trophy.png">&nbsp; Github Trophies</h2>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarreda&theme=dracula" alt="omarreda" /></a> </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarreda&show_icons=true&theme=radical&locale=en&layout=compact" width="375" alt="omarreda" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=omarreda&show_icons=true&theme=radical" width="450" alt="onedark" /></p>
 
  
 <hr>
