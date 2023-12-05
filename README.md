@@ -8,10 +8,9 @@
 
 <h2>Find me on<img width="80" src="https://github.com/OmarReda/OmarReda/blob/master/find.gif"> </h2>
 <p align="center"> 
-<a href="https://omarreda.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleearth.svg" alt="omarreda.github.io" height="33" width="33" /></a> &nbsp;&nbsp;
-<a href="https://linkedin.com/in/omarreda291" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="omarreda291" height="33" width="33" /></a> &nbsp;&nbsp;
-<a href="https://fb.com/omar.reda.291" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="omar.reda.291" height="35" width="35" /></a> &nbsp;&nbsp;
-<a href="https://instagram.com/omar.reda291/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="omar.reda291/" height="35" width="35" /></a> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/omarreda74" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="omarreda74" height="33" width="33" /></a> &nbsp;&nbsp;
+<a href="https://fb.com/omar.reda7498" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="omar.reda7498" height="35" width="35" /></a> &nbsp;&nbsp;
+<a href="https://instagram.com/omar.reda74/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="omar.reda74/" height="35" width="35" /></a> &nbsp;&nbsp;
 <a href="https://omarreda.hashnode.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="/omarreda" height="45" width="40" /></a>
 </p>
   
