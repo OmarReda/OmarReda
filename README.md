@@ -18,11 +18,11 @@
 
   - **Software Engineer, Studied Computer & Communication Engineering at Alexandria University**.
   
-  - Currently, I work as a Site Reliability Engineer II @ **Careem**.
+  - Currently, I work as a Senior Site Reliability Engineer I @ **Careem**.
   
   - IBM Skills Academy AI Analyst Certified Instructor 2019.
 
-  - +3 Years **Total Experience in Software Engineering**.
+  - +7 Years **Total Experience in Software Engineering and Infrastructure**.
   
   - Interested in **Cloud Technologies, Web Development and Project/Product Management**.  
 
